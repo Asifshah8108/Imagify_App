@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828802900311",
+    "project_id": "dreamtoimage-fa6f1",
+    "storage_bucket": "dreamtoimage-fa6f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828802900311:android:313ebc1f45970518381e12",
+        "android_client_info": {
+          "package_name": "com.example.wombo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChvQdD_v-GxIQ-MzjSl_uuopDVRBeJQSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
